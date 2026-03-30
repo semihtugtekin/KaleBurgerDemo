@@ -36,7 +36,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Akdeniz Yeşillikleri, Domates Dilimleri, Kornişon Turşu, Özel Kale Sos, Patates Cipsi Ve Özel Sos İle Sunulur.",
         imageUrl: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=500&q=80",
         badges: ["⭐ Klasik"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 380.00 },
           { weight: "150g", price: 420.00 },
@@ -50,7 +49,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Akdeniz Yeşillikleri, Cheddar Peyniri, Domates Dilimleri, Kornişon Turşu, Özel Kale Sos, Patates Cipsi Ve Özel Sos İle Sunulur.",
         imageUrl: "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=500&q=80",
         badges: ["🧀 Peynir Şelalesi"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 395.00 },
           { weight: "150g", price: 435.00 },
@@ -64,7 +62,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Cheddar Peyniri, Karamelize Soğan, Jalapeno, Acı Sos, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1594212204780-60b5a1f6a152?auto=format&fit=crop&w=500&q=80",
         badges: ["🌶️ Acı", "🔥 Şefin Tavsiyesi"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 395.00 },
           { weight: "150g", price: 435.00 },
@@ -78,7 +75,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Cheddar Peyniri, Karamelize Soğan, Barbekü Sos, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1586816001966-79b736744398?auto=format&fit=crop&w=500&q=80",
         badges: ["😋 Enfes Barbekü"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 395.00 },
           { weight: "150g", price: 435.00 },
@@ -92,7 +88,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Sweet Chili Sos, Karamelize Soğan, Ev Yapımı Köfte Üzerine Chedddar Peyniri Eklenir Ve Patates Cips İle Servis Edilir",
         imageUrl: "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=500&q=80",
         badges: ["🌶️ Tatlı & Acı"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 395.00 },
           { weight: "150g", price: 435.00 },
@@ -264,7 +259,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Üzerine Marine Edilmiş Bonfile Parçaları, Kıtır Soğan, Kornişon Turşu, Cheddar Peyniri, Özel Kale Sos, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=500&q=80",
         badges: ["👑 İmza Lezzet"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 450.00 },
           { weight: "150g", price: 490.00 },
@@ -278,7 +272,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Pastırma Dilimleri, Kaşar Peyniri, Karamelize Soğan, Özel Kale Sos, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1586816001966-79b736744398?auto=format&fit=crop&w=500&q=80",
         badges: ["🍖 Pastırmalı"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 435.00 },
           { weight: "150g", price: 475.00 },
@@ -291,7 +284,6 @@ export const menuData: Record<string, CategoryData> = {
         name: "Köz Burger",
         description: "Özel El Yapımı Köfte, Közlenmiş Soğan, Közlenmiş Kapya Biber, Patlıcan, Kaşar Peyniri, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1594212204780-60b5a1f6a152?auto=format&fit=crop&w=500&q=80",
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 395.00 },
           { weight: "150g", price: 435.00 },
@@ -305,7 +297,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Kremalı Demi-Glace Soslu Mantar, Özel Kale Sos, Kaşar Peyniri, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=500&q=80",
         badges: ["🍄 Kremalı"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 395.00 },
           { weight: "150g", price: 435.00 },
@@ -319,7 +310,6 @@ export const menuData: Record<string, CategoryData> = {
         description: "Özel El Yapımı Köfte, Üzerinde Füme Dana Kaburga Dilimleri, Cheddar Peyniri, Özel Kale Sos, Kıtır Soğan, Patates Cips Ve Özel Sos İle Servis Edilir.",
         imageUrl: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=500&q=80",
         badges: ["🥓 Bacon"],
-        recommendations: [{ name: "Buz Gibi Kola 🥤" }],
         variants: [
           { weight: "100g", price: 450.00 },
           { weight: "150g", price: 490.00 },
